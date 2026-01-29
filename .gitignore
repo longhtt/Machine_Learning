@@ -1,3 +1,15 @@
 Week_2/RE2-End-to-End_Machine_Learning_Project/datasets/
 Week_2/RE2-End-to-End_Machine_Learning_Project/images/
 Week_2/RE2-End-to-End_Machine_Learning_Project/my_california_housing_model.pkl
+
+Week_3/EX3 Binary classification Titanic Dataset/test.csv
+Week_3/EX3 Binary classification Titanic Dataset/train.csv
+
+Week_3/In-Class Activity 4 Data Augmentation/images/
+Week_3/In-Class_Activity_3_Binary_Classification/images/
+
+Week_4/ex5/insurance-2.csv
+
+
+**/*.csv
+**/data/
