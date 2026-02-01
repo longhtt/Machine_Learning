@@ -13,3 +13,15 @@ Week_4/ex5/insurance-2.csv
 
 **/*.csv
 **/data/
+
+data/
+datasets/
+dataset/
+images/
+image/
+*.csv
+*.parquet
+*.h5
+*.npy
+*.pkl
+
