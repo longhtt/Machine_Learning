@@ -24,4 +24,5 @@ image/
 *.h5
 *.npy
 *.pkl
+*.mmap
 
